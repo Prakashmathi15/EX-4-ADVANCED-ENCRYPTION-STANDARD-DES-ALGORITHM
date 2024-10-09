@@ -46,8 +46,8 @@ return 0;
 }
 ```
 ## OUTPUT:
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/f8b88503-057b-4662-baa5-48a72b4755c3">
 
-![Screenshot 2024-10-08 220708](https://github.com/user-attachments/assets/0bee8219-4d06-467a-86b6-185236e1b765)
 
 ## RESULT: 
 
